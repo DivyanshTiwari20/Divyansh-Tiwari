@@ -24,7 +24,7 @@ body{
     color: var(--color-brand2);
     font-size: 140%;
 }
-.cursor {
+/* .cursor {
     width: 50px;
     height: 50px;
     /* border: 1px solid #fff; */
@@ -39,7 +39,7 @@ body{
     background-color: rgba(223, 247, 128, 0.635);
     /* background-color: rgba(220, 228, 228, 0.187); */
    
-}
+} */
 
 h1,h2,h3,h4,h5,h6{
 color: var(--color-heading);
